@@ -1,0 +1,48 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,ASU_CS,,,,,,,,,
+Institution,Angelo State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0712,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1336,Computer Science I , CS,1336,,,,3,,,1
+21,BIOL_GEOL_HSP,BGH,1400,,,,4,,,1
+22,ENGL 1301,ENGL,1301,,,,3,,,1
+23,Algebra/Calculus/Trig,MATH,1314/1316/2413,,,,3,,,1
+24,GS 1181,GS,1181,,,,1,,,1
+1337,Computer Science II , CS,1337,1336,,,3,,,2
+1,Elective, CS,1,,,,3,,,2
+25,BIOL_GEOL_HSP,BGH,1400,,,,4,,,2
+26,ENGL 1302 or 2311,ENGL,1302;2311,,,,3,,,2
+27,Precalculus,MATH,2312,23,,,3,,,2
+2336,Data Structures and Algorithms , CS,2336,1337,,,3,,,3
+28,History 1,HIST,1301,,,,3,,,3
+29,Discrete Math,MATH,2305,27,,,3,,,3
+30,Communication,COMM,1315,,,,3,,,3
+31,CHEM_PS_PHYS,CPP,1000,,,,3,,,3
+3304,Computer Organization and Programming , CS,3304,1337,,,3,,,4
+2,CS Elective, CS,2,,,,3,,,4
+32,History 2,HIST,1302,,,,3,,,4
+33,Political Science,POLS,2305,,,,3,,,4
+34,"Lang, Philos, Culture",LPC,1000,,,,3,,,4
+3352,Theory of Algorithms , CS,3352,2336,,,3,,,5
+4301,Algorithmic Languages and Compilers , CS,4301,2336;3304,,,3,,,5
+3,CS Elective (advanced), CS,3,2336,,,3,,,5
+35,Creative Arts,ART,1000,,,,3,,,5
+36,Political Science,POLS,2306,,,,3,,,5
+3311,Data Base Management , CS,3311,1337,,,3,,,6
+4302,Operating Systems , CS,4302,2336,,,3,,,6
+4,Elective, CS,4,,,,3,,,6
+5,Elective, CS,5,,,,3,,,6
+37,Digital Electronics,PHYS,3444,,,,4,,,6
+4306,Software Engineering , CS,4306,2336,,,3,,,7
+6,CS Elective (advanced), CS,6,2336,,,3,,,7
+7,Elective, CS,7,,,,3,,,7
+8,Elective (advanced), CS,8,,,,3,,,7
+38,Technical Writing,ENGL,3351,,,,3,,,7
+9,CS Elective (advanced), CS,9,2336,,,3,,,8
+10,Elective, CS,10,,,,3,,,8
+11,Elective, CS,11,,,,3,,,8
+12,Elective, CS,12,,,,3,,,8
+39,Social and Behav. Sciences,SB,1000,,,,3,,,8
